@@ -18,7 +18,7 @@ Where nᵢ is the number of pieces of size pᵢ x qᵢ, pᵢ is the width and q�
 
 It is guaranteed that: 1 ≤ W, 1 ≤ nᵢ, 1 ≤ pᵢ ≤ min(qᵢ, W) and N = ∑ nᵢ.
 
-*The following figure shows the data of an instance. The roll used is 4 units wide, and we need to cut a total of 5 fabric rectangles: 3 of size 1x3, 1 of size 3x3, and 1 of size 1x1*
+*The following figure shows the data of an instance. The roll used is 4 units wide, and we need to cut a total of 5 fabric rectangles: 3 of size 1x3, 1 of size 3x3, and 1 of size 1x1.*
 
 ![alt_text](example.png)
 
