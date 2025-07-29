@@ -53,7 +53,7 @@ The project provides three different algorithmic approches to the fabric layout 
 
 ## Testing
 
-To validate the correctness of outputs a `checker` is provided:
+To test and validate the correctness several `instances` and `checker` have been provided:
 ```
 ./checker input.txt output.txt
 ```
