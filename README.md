@@ -63,8 +63,8 @@ To test and validate the correctness several `instances` and `checker` have been
 ## Authors
 
 The project has been developed for Algorithms and Programming III subject by:
-- Aleix Vernet
-- Aina Vila
+- Aleix Vernet Siuró
+- Aina Vila Arbusà
 
 
 
